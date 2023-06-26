@@ -1,0 +1,5 @@
+jupyter
+jsonrpc-requests
+numpy
+pandas
+pyarrow
